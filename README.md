@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://twitter.com/AfghanElyas1/photo?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d">
-  
-  **<p align="center">Elyas Afghan</p>**
-</p>
-
-
 ```php
 // WHO AM I?
 
