@@ -7,7 +7,7 @@ Developer::create([
   
   'title' => 'Software Developer',
   
-  'stack' => ['Laravel', 'ReactJs', 'Python'] 
+  'stack' => ['PHP', 'Laravel'] 
   
 ]);
 ```
