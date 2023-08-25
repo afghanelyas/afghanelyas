@@ -38,5 +38,5 @@ Developer::create([
 ```
 
 <pre>
-['<a href="https://twitter.com/AfghanElyas1" title="Twitter Profile">X</a>', '<a href="https://www.linkedin.com/in/elyas-afghan-225394222/" title="Linkedin profile">linkedin</a>', '<a href="https://elyasafghan.vercel.app/" title="Personal Website">elyasafghan.vercel.me</a>']
+['<a href="https://twitter.com/AfghanElyas1" title="Twitter Profile">X</a>', '<a href="https://www.linkedin.com/in/elyas-afghan-225394222/" title="Linkedin profile">linkedin</a>', '<a href="https://elyasafghan.vercel.app/" title="Personal Website">Portfolio</a>']
 </pre>
